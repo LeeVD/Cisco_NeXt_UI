@@ -2,7 +2,7 @@
 
 NeXt UI toolkit is an HTML5/JavaScript based toolkit for network web application. It provides a network centric topology UI component featuring high performance and rich functionality. NeXt can display large complex network topologies, aggregated network nodes, traffic/path/tunnel/group visualizations and it includes different layout algorithms, map overlays, and preset user friendly interactions. NeXt can work together with DLUX to build ODL apps.
 
-Homepage : https://wiki.opendaylight.org/view/NeXt:Main
+Homepage : [https://wiki.opendaylight.org/view/NeXt:Main](https://wiki.opendaylight.org/display/ODL/NeXt)
 
 UI Toolkit Quicklook : https://www.youtube.com/watch?v=gBsUDu8aucs
 
